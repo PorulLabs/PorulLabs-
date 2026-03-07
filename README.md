@@ -127,17 +127,6 @@ Machine Learning Models
 
 ---
 
-##  GitHub Activity
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PorulLabs\&show_icons=true\&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PorulLabs\&layout=compact\&theme=github_dark)
-
-</div>
-
----
 
 ##  Contact 
 
