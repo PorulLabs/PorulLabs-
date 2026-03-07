@@ -1,9 +1,4 @@
-Got it. You want the **entire README written in the same visual/code style** like your header section so it **looks clean, minimal, and professional (Silicon Valley style)**.
-Below is a **complete visual GitHub README template** you can paste directly.
 
----
-
-````markdown
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=200&section=header&text=PorulLabs&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20FinTech%20Infrastructure&descAlignY=58&descSize=18&descColor=94A3B8" width="100%"/>
