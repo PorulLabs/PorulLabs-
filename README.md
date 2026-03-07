@@ -39,7 +39,7 @@ class PorulLabs:
 
 ---
 
-## 🚀 Focus Areas
+##  Focus Areas
 
 ```text
 AI Systems Engineering
@@ -51,7 +51,7 @@ Financial Data Platforms
 
 ---
 
-## ⚙️ Technology Stack
+## Technology Stack ⚙️
 
 <div align="center">
 
@@ -81,7 +81,7 @@ Financial Data Platforms
 
 ---
 
-## 🏗 Engineering Domains
+##  Engineering Domains 🏗
 
 ```
 AI Systems Architecture      ███████████████████░  Advanced
@@ -93,7 +93,7 @@ Distributed Systems          █████████████░░░░
 
 ---
 
-## 📐 System Design Thinking
+##  System Design Thinking 📐
 
 ```text
 User Application
@@ -115,7 +115,7 @@ Machine Learning Models
 
 ---
 
-## 🧩 Engineering Philosophy
+## Engineering Philosophy 🧩
 
 ```
 01  Infrastructure first, applications second
@@ -127,7 +127,7 @@ Machine Learning Models
 
 ---
 
-## 📊 GitHub Activity
+##  GitHub Activity
 
 <div align="center">
 
@@ -139,10 +139,10 @@ Machine Learning Models
 
 ---
 
-## 📬 Contact
+##  Contact 
 
 ```text
-Email      → contact@porullabs.dev
+Email      → srinath722003@gmail.com
 Location   → India
 Focus      → AI + FinTech Systems
 ```
@@ -154,27 +154,3 @@ Focus      → AI + FinTech Systems
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=120&section=footer"/>
 
 </div>
-```
-
----
-
-### Result
-
-This README will look:
-
-* **Minimal**
-* **Technical**
-* **Professional**
-* **Silicon Valley engineer style**
-
-It shows:
-
-* AI engineering
-* system design
-* fintech focus
-* infrastructure thinking
-
----
-
-If you want, I can also show you **one powerful upgrade**:
-A **GitHub README layout used by Stripe/OpenAI engineers** that makes the profile look **extremely elite**.
